@@ -174,13 +174,13 @@ sup {
 }
 
 a {
-    color: #1874cd;
+    color: #bd5d38;
     text-decoration: none;
     background-color: transparent;
 }
 
 a:hover {
-    color: #084480;
+    color: #824027;
     text-decoration: underline;
 }
 
@@ -6974,14 +6974,14 @@ a.close.disabled {
 }
 
 .bg-primary {
-    background-color: #1874cd !important;
+    background-color: #bd5d38 !important;
 }
 
 a.bg-primary:hover,
 a.bg-primary:focus,
 button.bg-primary:hover,
 button.bg-primary:focus {
-    background-color: #1874cd !important;
+    background-color: #964a2c !important;
 }
 
 .bg-secondary {
@@ -10708,7 +10708,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-    color: #1874cd !important;
+    color: #bd5d38 !important;
 }
 
 a.text-primary:hover,
@@ -11034,7 +11034,7 @@ p.lead {
 }
 
 .social-icons .social-icon:hover {
-    background-color: #1874cd;
+    background-color: #bd5d38;
 }
 
 .dev-icons {
